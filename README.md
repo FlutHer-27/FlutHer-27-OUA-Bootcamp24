@@ -1,10 +1,24 @@
-# Google Oyun ve Uygulama Akademisi Bootcamp Projesi-2024
-**TAKIM İSMİ**
-FlutHer-27
-**ÜRÜN İLE İLGİLİ BİLGİLER**
+# Google OUA Bootcamp Projesi-2024
 
-**TAKIM ÜYELERİ VE ROLLERİ**
-| Pelin SOYTÜRK  |  Product Owner |
-| Nurdan ÜN  |  Scrum Master |
-| Betül NAR |  Developer |
-| Büşra Nisa ÖZKAYA |  Developer |
+## Takım İsmi 
+FlutHer-27
+
+## Takım Üyeleri ve Rolleri
+- Pelin SOYTÜRK  :  Product Owner
+- Nurdan ÜN  :  Scrum Master  
+- Betül NAR :  Developer  
+- Büşra Nisa ÖZKAYA:   Developer  
+- Gönül KABA :  Aktif Olmayan Üye </br>
+  (Scrum Master ve Product Owner görevleri takım üyelerinin ortak kararı üzerine, takımdaki diğer arkadaşlarla yedekli olarak yürütülecektir.)
+
+## Ürün İsmi
+
+## Ürün Açıklaması
+
+## Ürün Özellikleri
+
+## Hedef Kitle
+
+## Product Backlog
+
+## SPRINT-1 
