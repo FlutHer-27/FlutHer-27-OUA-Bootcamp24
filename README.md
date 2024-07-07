@@ -22,30 +22,24 @@ FlutHer-27
 ## Product Backlog
 
 ## SPRINT-1 </br>
-**25.06.2024** </br>
-Ulaşılabilen ekip üyeleriyle ilk toplantı Zoom platformu üzerinden gerçekleştirildi: </br>
-- Tanışma, deneyim/ niteliklerden bahsetme.
-- Rol dağılımı hakkında görüşme.
-- Öneri olarak ürün/ proje fikirleri tüm üyeler tarafından sunuldu, üzerine tartışıldı.
-- İlk görev dağılımı planlandı:</br>
- -Grup ismi üzerine düşünme - *Tüm üyeler*</br>
- -28.06.2024 tarihine kadar ürün fikrinin netleştirilmesi - *Tüm üyeler*</br>
- -Gruba özel Gmail hesabı açılması & Github hesabı açılması- *Nurdan/ Scrum Master*</br>
- -Takım bilgi formunun doldurulması- *Herhangi bir üye*</br>
- -Önceki yılların Bootcamp' te dereceye giren takımlarının projelerinin incelenmesi- *Tüm üyeler*</br>
+  - **Sprint Notları**: User Stories için "Asana" kullanılmış olup Product Backlog kısmından ulaşılabilir. 
 
- **26.06.2024** </br>
- Ekip üyeleriyle Whatsapp üzerinden kısa bir görüşme gerçekleştirildi:</br>
- - Takım bilgi formu dolduruldu.</br>
- - Gmail ve Github hesabı açıldı.</br>
- - Hangi PM boardunun kullanılacağı üzerinde düşünüldü.</br>
- - Önceki görüşmede sunulan ürün fikirleri tekrar değerlendirildi, yapılan araştırmalardan bahsedildi.</br>
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-## Daily Scrum
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Asana'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**:
 Toplantıların, ekip üyelerinin zaman durumlarına göre Whatsapp üzerinden görüşülmesine ek olarak, devamlı yazışmalar ve görüntü paylaşımları ile de desteklenmesine karar verilmiştir.
 
-
+- **Sprint board update**: Sprint board screenshotları:
+- **Ürün Durumu**: Ekran görüntüleri:
+- **Sprint Review**:
+- **Sprint Retrospective:**
+  
 
 
 
