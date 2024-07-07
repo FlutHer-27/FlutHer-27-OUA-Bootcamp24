@@ -57,6 +57,12 @@ Toplantıların, ekip üyelerinin zaman durumlarına göre Whatsapp ve Slack üz
 
 
 - **Sprint board update**: Sprint board screenshotları:
+![image](https://github.com/FlutHer-27/FlutHer-27-OUA-Bootcamp24/assets/173944471/98bade8f-683a-49e1-ad6d-f632c125ccb1)
+
+
+
+
+
 - **Ürün Durumu**: Ekran görüntüleri:
 - **Sprint Review**:
 - **Sprint Retrospective:**
