@@ -4,8 +4,8 @@
 FlutHer-27
 
 ## Takım Üyeleri ve Rolleri
+- Nurdan ÜN  :  Scrum Master
 - Pelin SOYTÜRK  :  Product Owner
-- Nurdan ÜN  :  Scrum Master 
 - Betül NAR :  Developer  
 - Büşra Nisa ÖZKAYA:   Developer  
 - Gönül KABA :  Aktif Olmayan Üye </br>
