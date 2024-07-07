@@ -64,9 +64,12 @@ Toplantıların, ekip üyelerinin zaman durumlarına göre Whatsapp ve Slack üz
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+Ürün fikri bulunması süreci Sprint-1 süreci sonlarında gerçekleşebildiği için, uygulama henüz taslak aşamasında olup ürün görüntülerinin daha net halleri Sprint-2 süreci içerisinde paylaşılacaktır.
+
 - **Sprint Review**:
+  Ürün fikrinin bulunması için araştırma sürecinin yavaş geçtiği farkedilmiştir. 
 - **Sprint Retrospective:**
-  
+  Ürün fikri belirlendikten sonra görev dağılımına tekrar göz atılarak, ekip üyeleri arasında daha homojen yapılması kararlaştırılmıştır.
 
 
 
