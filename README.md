@@ -12,7 +12,7 @@ FlutHer-27
   (Scrum Master ve Product Owner görevleri takım üyelerinin ortak kararı üzerine, takımdaki diğer arkadaşlarla yedekli olarak yürütülecektir.)
 
 ## Ürün İsmi
-HowID
+" HowID "
 
 ## Ürün Açıklaması
 HowID, insanların her alandaki kişisel tecrübelerini '.... Nasıl yaptım?' mottosuyla paylaştığı bir platformdur. Kullanıcılar, deneyimlerini detaylandırabilir, diğer kullanıcıların deneyimlerini keşfedebilir, oylayabilir ve yorum yapabilirler. Herkesin öğrenme ve ilham alma şansı bulabileceği bir ortam sunar.
@@ -52,7 +52,9 @@ Asana Backlog Board URL: https://app.asana.com/0/1207676499645325/12076767615861
 
 
 - **Daily Scrum**:
-Toplantıların, ekip üyelerinin zaman durumlarına göre Whatsapp ve Slack üzerinden görüşülmesine ek olarak, devamlı yazışmalar ve görüntü paylaşımları ile de desteklenmesine karar verilmiştir. Örnek görüşme/ yazışmalara dair veriler: 
+Toplantıların, ekip üyelerinin zaman durumlarına göre Whatsapp ve Slack üzerinden görüşülmesine ek olarak, devamlı yazışmalar ve görüntü paylaşımları ile de desteklenmesine karar verilmiştir. Örnek görüşme/ yazışmalara dair veriler:
+[Daily Scrum.docx](https://github.com/user-attachments/files/16120537/Daily.Scrum.docx)
+
 
 - **Sprint board update**: Sprint board screenshotları:
 - **Ürün Durumu**: Ekran görüntüleri:
