@@ -94,6 +94,8 @@ Grubumuzdaki developer eksiğinden dolayı ürün geliştirme süreci yavaş ile
 
 
 Ürüne dair logo tasarımı gerçekleştirilmiştir. Ekran görüntüleri:
+
+
 ![uygulama logo](https://github.com/user-attachments/assets/6d5ed6d5-173e-4b16-9b20-180a86fe0c0d)
 
 
