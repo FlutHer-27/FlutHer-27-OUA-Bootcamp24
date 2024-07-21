@@ -87,7 +87,7 @@ Toplantıların, ekip üyelerinin zaman durumlarına göre Whatsapp ve Slack üz
 ![Ekran görüntüsü 2024-07-15 220758](https://github.com/user-attachments/assets/8793159f-00c2-44c4-8322-0d3df9fd0103)
 
 
-- **Sprint board update**: Sprint board screenshotları:
+- **Sprint board update**: 
 
 
 
