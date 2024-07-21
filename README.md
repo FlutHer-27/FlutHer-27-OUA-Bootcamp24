@@ -75,6 +75,19 @@ Toplantıların, ekip üyelerinin zaman durumlarına göre Whatsapp ve Slack üz
 
 
 ## SPRINT-2 </br>
+- **Sprint Notları**: User Stories için "Asana" platformu kullanılmış olup Product Backlog kısmından ulaşılabilir. 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog belirlenmiştir. 3 sprint'e bölündüğünde her sprint için 100 puan belirlenmiş olup; sprint içi puanlamalar kendi içinde değerlendirilmiştir.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+  
+- **Daily Scrum**:Toplantıların, ekip üyelerinin zaman durumlarına göre Whatsapp ve Slack üzerinden görüşülmesine ek olarak, devamlı yazışmalar ve görüntü paylaşımları ile de desteklenmesine karar verilmiştir. 
+![Ekran görüntüsü 2024-07-15 220758](https://github.com/user-attachments/assets/8793159f-00c2-44c4-8322-0d3df9fd0103)
+
+
+- **Sprint board update**: Sprint board screenshotları:
 
 
 
