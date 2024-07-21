@@ -89,7 +89,15 @@ Toplantıların, ekip üyelerinin zaman durumlarına göre Whatsapp ve Slack üz
 
 - **Sprint board update**: 
 
+- **Ürün Durumu**: Ekran görüntüleri:
+Grubumuzdaki developer eksiğinden dolayı ürün geliştirme süreci yavaş ilerlemektedir. Ürüne dair logo tasarımı gerçekleştirilmiştir.
+![uygulama logo](https://github.com/user-attachments/assets/6d5ed6d5-173e-4b16-9b20-180a86fe0c0d)
 
+
+- **Sprint Review**:
+  Flutter flow kullanımının uygun görülmemesi, developer veya flutter bilgisi eksikliğinden ötürü tasarım sürecinin oldukça yavaş ilerlediği tecrübe edilmiştir.
+- **Sprint Retrospective:**
+ .
 
 
 
