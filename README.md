@@ -103,7 +103,7 @@ Grubumuzdaki developer eksiğinden dolayı ürün geliştirme süreci yavaş ile
 
 ## SPRINT-3 </br>
 - **Sprint Notları**:</br>
-Bootcamp takvimi, ekip üyelerinin yazılım konusundaki ilerlemesi, zaman yönetimi dikkate alınarak 1. ve 2. sprintlerde bahsi geçen "HowID" uygulaması fikrinin değiştirilmesine oy birliğiyle karar verilerek "TaskEase" adlı bir ürün üretilmesi kararlaştırılmıştır. Yukarıda bahsi geçen Ürün İsmi, Ürün Açıklaması, Ürün Özellikleri ve Hedef Kitle kısımları değiştirilmiştir.
+Bootcamp takvimi, ekip üyelerinin yazılım konusundaki ilerlemesi, zaman yönetimi dikkate alınarak 1. ve 2. sprintlerde bahsi geçen "HowID" uygulaması fikrinin değiştirilmesine oy birliğiyle karar verilerek "ToDoList" adlı bir ürün üretilmesi kararlaştırılmıştır. Yukarıda bahsi geçen Ürün İsmi, Ürün Açıklaması, Ürün Özellikleri ve Hedef Kitle kısımları değiştirilmiştir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
