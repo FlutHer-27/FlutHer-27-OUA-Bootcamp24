@@ -7,7 +7,7 @@ FlutHer-27
 - Nurdan ÜN  :  Scrum Master
 - Pelin SOYTÜRK  :  Product Owner
 - Betül NAR :  Developer  
-- Büşra Nisa ÖZKAYA:   Developer  
+- Büşra Nisa ÖZKAYA:   Developer (Bootcamp süreci tamamlanmadan ayrılmıştır.)  
 - Gönül KABA :  Aktif Olmayan Üye </br>
   (Scrum Master ve Product Owner görevleri takım üyelerinin ortak kararı üzerine, takımdaki diğer arkadaşlarla yedekli olarak yürütülecektir.)
 
