@@ -15,7 +15,7 @@ FlutHer-27
 " TaskEase "
 
 ## Ürün Açıklaması
-TaskEase, günlük görevlerinizi ve yapılacaklar listenizi düzenlemenize yardımcı olan kullanıcı dostu bir mobil uygulamadır. İster kişisel hayatınızı ister iş hayatınızı organize etmek isteyin, TaskEase ile her şey elinizin altında...
+"TaskEase", günlük görevlerinizi ve yapılacaklar listenizi düzenlemenize yardımcı olan kullanıcı dostu bir mobil uygulamadır. İster kişisel hayatınızı ister iş hayatınızı organize etmek isteyin, TaskEase ile aklınızda yer edinen her şeyi elinizin altında kılabilirsiniz...
 
 ## Ürün Özellikleri
 - Kolay Kullanım
@@ -59,13 +59,12 @@ Toplantıların, ekip üyelerinin zaman durumlarına göre Whatsapp ve Slack üz
 
 
 
-
-
 - **Ürün Durumu**: Ekran görüntüleri:
 Ürün fikri bulunması süreci Sprint-1 süreci sonlarında gerçekleşebildiği için, uygulama henüz taslak aşamasında olup ürün görüntülerinin daha net halleri Sprint-2 süreci içerisinde paylaşılacaktır.
 
 - **Sprint Review**:
-  Ürün fikrinin bulunması için araştırma sürecinin yavaş geçtiği farkedilmiştir. 
+  Ürün fikrinin bulunması için araştırma sürecinin yavaş geçtiği, beklenenden daha fazla zaman aldığı fark edilmiştir.
+  
 - **Sprint Retrospective:**
   Ürün fikri belirlendikten sonra görev dağılımına tekrar göz atılarak, ekip üyeleri arasında daha homojen yapılması kararlaştırılmıştır.
 
@@ -90,18 +89,17 @@ Toplantıların, ekip üyelerinin zaman durumlarına göre Whatsapp ve Slack üz
 - **Ürün Durumu**:
 Grubumuzdaki developer eksiğinden dolayı ürün geliştirme süreci yavaş ilerlemektedir.
 
-
 Ürüne dair logo tasarımı gerçekleştirilmiştir. Ekran görüntüleri:
-
 
 ![uygulama logo](https://github.com/user-attachments/assets/6d5ed6d5-173e-4b16-9b20-180a86fe0c0d)
 
 
 - **Sprint Review**:
   Flutter flow kullanımının uygun görülmemesi, developer veya flutter bilgisi eksikliğinden ötürü tasarım sürecinin oldukça yavaş ilerlediği tecrübe edilmiştir.
+  
 - **Sprint Retrospective:**
-  - Ekip toplantılarının gelişmelere göre düzenlenmesi yerine daha düzenli olmasının fayda sağlayacağı düşünülerek her pazartesi ve perşembe günleri 21.00' de yapılması ve yaklaşık 1 saat öncesinden ekibe hatırlatma yapılması kararlaştırılmıştır (Betül NAR tarafından).
-  - Board olarak Asana yerine settings kısmı daha basit ve güçlü bir proje yönetim board'u üzerinde çalışılmasının daha iyi bir karar olacağı görülmüş oldu. Bu board' u seçerken biraz daha araştırma yapmak gerektiği düşünülmüştür.
+  - Ekip toplantılarının gelişmelere göre düzenlenmesi yerine daha düzenli olmasının fayda sağlayacağı düşünülerek her pazartesi ve perşembe günleri saat 21.00' de yapılması ve yaklaşık 1 saat öncesinden Betül NAR tarafından ekibe hatırlatma yapılması kararlaştırılmıştır .
+  - Board olarak Asana yerine settings kısmı daha basit ve güçlü bir proje yönetim board'u üzerinde çalışılmasının daha iyi bir karar olacağı görülmüş oldu. Board seçimi yaparken biraz daha araştırma yapmak gerektiği düşünülmüştür.
 
 
 
@@ -125,7 +123,7 @@ Bootcamp takvimi, ekip üyelerinin yazılım konusundaki ilerlemesi, zaman yöne
 
 
 - **Sprint Review**:
-Ekip üyelerinden bir kişinin grup ile devam etmek istememesi üzerine yazılım kısmında tek developer ve diğer üyeler daha çok yoğunlaşmıştır.
+Ekip üyelerinden bir kişinin çalışmaya devam etmek istememesi üzerine yazılım kısmında tek developer kalmıştır.
  
 - **Sprint Retrospective:**
   Ekip üyelerinin iş takvimleri, yazılım bilgisi/ uzmanlığı doğrultusunda bulunan ilk fikir zaman yönetimi baz alınarak değiştirilmiştir.
