@@ -102,12 +102,13 @@ Grubumuzdaki developer eksiğinden dolayı ürün geliştirme süreci yavaş ile
 - **Sprint Review**:
   Flutter flow kullanımının uygun görülmemesi, developer veya flutter bilgisi eksikliğinden ötürü tasarım sürecinin oldukça yavaş ilerlediği tecrübe edilmiştir.
 - **Sprint Retrospective:**
- .
+  Ekip toplantılarının gelişmelere göre düzenlenmesi yerine daha düzenli olmasının fayda sağlayacağı düşünülerek her pazartesi ve perşembe günleri 21.00' de yapılması ve yaklaşık 1 saat öncesinden ekibe hatırlatma yapılması kararlaştırılmıştır (Betül NAR tarafından).
 
 
 
 ## SPRINT-3 </br>
-- **Sprint Notları**: User Stories için "Asana" platformu kullanılmış olup Product Backlog kısmından ulaşılabilir. 
+- **Sprint Notları**:</br>
+HowID uygulamasına, fikir ve arayüz olarak benzerliği olabilecek uygulamalardan farkları üzerine tekrar araştırmalar yapılmıştır.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
@@ -128,5 +129,5 @@ Grubumuzdaki developer eksiğinden dolayı ürün geliştirme süreci yavaş ile
 Ekip üyelerinden bir kişinin grup ile devam etmek istememesi üzerine yazılım kısmında tek developer ve diğer üyeler daha çok yoğunlaşmıştır.
  
 - **Sprint Retrospective:**
-  
+  Görev dağılımıyla ilgili bootcamp sürecinin ilk başlarındaki dağılıma kıyasla düzenlemeler yapılmasına karar verilmiştir.
 
