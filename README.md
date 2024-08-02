@@ -9,34 +9,32 @@ FlutHer-27
 - Betül NAR :  Developer  
 - Büşra Nisa ÖZKAYA:   Developer (Bootcamp süreci tamamlanmadan ayrılmıştır.)  
 - Gönül KABA :  Aktif Olmayan Üye </br>
-  (Scrum Master ve Product Owner görevleri takım üyelerinin ortak kararı üzerine, takımdaki diğer arkadaşlarla yedekli olarak yürütülecektir.)
+ 
 
 ## Ürün İsmi
-" HowID "
+" TaskEase "
 
 ## Ürün Açıklaması
-HowID, insanların her alandaki kişisel tecrübelerini '.... nasıl yaptım?' mottosuyla paylaştığı bir platformdur. Kullanıcılar, deneyimlerini detaylandırabilir, diğer kullanıcıların deneyimlerini keşfedebilir, oylayabilir ve yorum yapabilirler. Herkesin öğrenme ve ilham alma şansı bulabileceği bir ortam sunar...
+TaskEase, günlük görevlerinizi ve yapılacaklar listenizi düzenlemenize yardımcı olan kullanıcı dostu bir mobil uygulamadır. İster kişisel hayatınızı ister iş hayatınızı organize etmek isteyin, TaskEase ile her şey elinizin altında...
 
 ## Ürün Özellikleri
-- Deneyim Paylaşımı
-- Kategori ve Etiketler
-- Oylama ve Yorumlama
-- Keşfetme ve Arama
-- Profil ve İzleme
-- Gelişmiş Arama ve Filtreleme
-- Güvenlik ve Gizlilik Kontrolleri
-- Sosyal Medya Entegrasyonu
-- İstatistikler ve Analizler
+- Kolay Kullanım
+- Anımsatıcılar
+- Kategorilendirme
+- Önceliklendirme
+- Senkronizasyon
+- Karanlık Mod
+- Paylaşım Özelliği
   
 ## Hedef Kitle
-- Bireysel Gelişim İlgilileri: Kişisel gelişim, beceri edinme ve deneyim paylaşımı konularına ilgi duyan bireyler.
+- Profesyoneller: İş hayatında yoğun olan, görevlerini ve projelerini düzenli bir şekilde takip etmek isteyen bireyler.
+- Öğrenciler: Derslerini, ödevlerini ve sınav tarihlerini organize etmek ve zaman yönetimini iyileştirmek isteyen öğrenciler.
+- Ev Hanımları: Günlük ev işlerini, alışveriş listelerini ve aile aktivitelerini düzenlemek isteyenler.
+- Freelancerlar ve Girişimciler: Kendi işlerini yöneten ve farklı projeleri aynı anda takip etmek zorunda olan serbest çalışanlar ve girişimciler.
+- Yoğun Sosyal Hayata Sahip Bireyler: Sosyal etkinlikleri, buluşmaları ve kişisel hedefleri düzenli bir şekilde yönetmek isteyenler.
+- Planlama ve Organizasyon Meraklıları: Günlük hayatlarını daha organize ve verimli hale getirmek isteyen, planlama ve organizasyonu seven bireyler.
 
-- Öğrenciler ve Akademisyenler: Staj, araştırma veya akademik çalışma deneyimlerini paylaşarak birbirlerine fayda sağlamak isteyen öğrenciler ve akademisyenler.
 
-- Girişimciler ve Geliştiriciler: Yeni bir şeyler başarma yolundaki deneyimlerini ve öğrenimlerini diğer girişimcilerle paylaşmak isteyenler.
-
-- Hobiler ve İlgi Alanları: Herhangi bir hobi veya ilgi alanında deneyimlerini paylaşmak ve benzerlerinden geri bildirim almak isteyen kullanıcılar.
-  
 ## Product Backlog
 Asana Backlog Board URL: https://app.asana.com/0/1207676499645325/1207676761586154
 
@@ -109,7 +107,7 @@ Grubumuzdaki developer eksiğinden dolayı ürün geliştirme süreci yavaş ile
 
 ## SPRINT-3 </br>
 - **Sprint Notları**:</br>
-HowID uygulamasına, fikir ve arayüz olarak benzerliği olabilecek uygulamalardan farkları üzerine tekrar araştırmalar yapılmıştır.
+Bootcamp takvimi, ekip üyelerinin yazılım konusundaki ilerlemesi, zaman yönetimi dikkate alınarak 1. ve 2. sprintlerde bahsi geçen "HowID" uygulaması fikrinin değiştirilmesine oy birliğiyle karar verilerek "TaskEase" adlı bir ürün üretilmesi kararlaştırılmıştır. Yukarıda bahsi geçen Ürün İsmi, Ürün Açıklaması, Ürün Özellikleri ve Hedef Kitle kısımları değiştirilmiştir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
@@ -130,5 +128,7 @@ HowID uygulamasına, fikir ve arayüz olarak benzerliği olabilecek uygulamalard
 Ekip üyelerinden bir kişinin grup ile devam etmek istememesi üzerine yazılım kısmında tek developer ve diğer üyeler daha çok yoğunlaşmıştır.
  
 - **Sprint Retrospective:**
+  Ekip üyelerinin iş takvimleri, yazılım bilgisi/ uzmanlığı doğrultusunda bulunan ilk fikir zaman yönetimi baz alınarak değiştirilmiştir.
+  
   Görev dağılımıyla ilgili bootcamp sürecinin ilk başlarındaki dağılıma kıyasla düzenlemeler yapılmasına karar verilmiştir.
 
