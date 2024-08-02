@@ -125,7 +125,7 @@ Grubumuzdaki developer eksiğinden dolayı ürün geliştirme süreci yavaş ile
 
 
 - **Sprint Review**:
-
+Ekip üyelerinden bir kişinin grup ile devam etmek istememesi üzerine yazılım kısmında tek developer ve diğer üyeler daha çok yoğunlaşmıştır.
  
 - **Sprint Retrospective:**
   
