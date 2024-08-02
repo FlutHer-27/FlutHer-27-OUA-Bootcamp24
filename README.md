@@ -12,10 +12,10 @@ FlutHer-27
  
 
 ## Ürün İsmi
-" TaskEase "
+" ToDoList "
 
 ## Ürün Açıklaması
-"TaskEase", günlük görevlerinizi ve yapılacaklar listenizi düzenlemenize yardımcı olan kullanıcı dostu bir mobil uygulamadır. İster kişisel hayatınızı ister iş hayatınızı organize etmek isteyin, TaskEase ile aklınızda yer edinen her şeyi elinizin altında kılabilirsiniz...
+"ToDoList", günlük görevlerinizi ve yapılacaklar listenizi düzenlemenize yardımcı olan kullanıcı dostu bir mobil uygulamadır. İster kişisel hayatınızı ister iş hayatınızı organize etmek isteyin, TaskEase ile aklınızda yer edinen her şeyi elinizin altında kılabilirsiniz...
 
 ## Ürün Özellikleri
 - Kolay Kullanım
