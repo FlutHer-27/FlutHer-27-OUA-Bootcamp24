@@ -19,12 +19,10 @@ FlutHer-27
 
 ## Ürün Özellikleri
 - Kolay Kullanım
-- Anımsatıcılar
 - Kategorilendirme
 - Önceliklendirme
 - Senkronizasyon
-- Karanlık Mod
-- Paylaşım Özelliği
+
   
 ## Hedef Kitle
 - Profesyoneller: İş hayatında yoğun olan, görevlerini ve projelerini düzenli bir şekilde takip etmek isteyen bireyler.
@@ -113,13 +111,15 @@ Bootcamp takvimi, ekip üyelerinin yazılım konusundaki ilerlemesi, zaman yöne
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
   
-- **Daily Scrum**:Toplantıların, ekip üyelerinin zaman durumlarına göre Whatsapp ve Slack üzerinden görüşülmesine ek olarak, devamlı yazışmalar ve görüntü paylaşımları ile de desteklenmesine karar verilmiştir. 
+- **Daily Scrum**:Toplantıların, ekip üyelerinin zaman durumlarına göre Whatsapp ve Slack üzerinden görüşülmesine ek olarak, devamlı yazışmalar ve görüntü paylaşımları ile de desteklenmesine devam edilmiştir. 
 
 
 - **Sprint board update**: 
 
 - **Ürün Durumu**
+<img width="1907" alt="SS-1" src="https://github.com/user-attachments/assets/7bae7a4b-97d1-42ba-842c-381c76f950aa">
 
+<img width="1920" alt="SS-2" src="https://github.com/user-attachments/assets/6b727ae8-30b7-4e94-a8a4-1366dc8a2694">
 
 
 - **Sprint Review**:
