@@ -102,7 +102,8 @@ Grubumuzdaki developer eksiğinden dolayı ürün geliştirme süreci yavaş ile
 - **Sprint Review**:
   Flutter flow kullanımının uygun görülmemesi, developer veya flutter bilgisi eksikliğinden ötürü tasarım sürecinin oldukça yavaş ilerlediği tecrübe edilmiştir.
 - **Sprint Retrospective:**
-  Ekip toplantılarının gelişmelere göre düzenlenmesi yerine daha düzenli olmasının fayda sağlayacağı düşünülerek her pazartesi ve perşembe günleri 21.00' de yapılması ve yaklaşık 1 saat öncesinden ekibe hatırlatma yapılması kararlaştırılmıştır (Betül NAR tarafından).
+  - Ekip toplantılarının gelişmelere göre düzenlenmesi yerine daha düzenli olmasının fayda sağlayacağı düşünülerek her pazartesi ve perşembe günleri 21.00' de yapılması ve yaklaşık 1 saat öncesinden ekibe hatırlatma yapılması kararlaştırılmıştır (Betül NAR tarafından).
+  - Board olarak Asana yerine settings kısmı daha basit ve güçlü bir proje yönetim board'u üzerinde çalışılmasının daha iyi bir karar olacağı görülmüş oldu. Bu board' u seçerken biraz daha araştırma yapmak gerektiği düşünülmüştür.
 
 
 
