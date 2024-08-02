@@ -7,7 +7,7 @@ FlutHer-27
 - Nurdan ÜN  :  Scrum Master
 - Pelin SOYTÜRK  :  Product Owner
 - Betül NAR :  Developer  
-- Büşra Nisa ÖZKAYA:   Developer (Bootcamp süreci tamamlanmadan ayrılmıştır.)  
+- Büşra Nisa ÖZKAYA:   Bootcamp süreci tamamlanmadan ayrılmıştır.
 - Gönül KABA :  Aktif Olmayan Üye </br>
  
 
@@ -114,7 +114,10 @@ Bootcamp takvimi, ekip üyelerinin yazılım konusundaki ilerlemesi, zaman yöne
 - **Daily Scrum**:Toplantıların, ekip üyelerinin zaman durumlarına göre Whatsapp ve Slack üzerinden görüşülmesine ek olarak, devamlı yazışmalar ve görüntü paylaşımları ile de desteklenmesine devam edilmiştir. 
 
 
-- **Sprint board update**: 
+- **Sprint board update**:
+- ![image](https://github.com/user-attachments/assets/45b0bc0d-3c39-4ad1-a3e0-533b693c16e3)
+
+![image](https://github.com/user-attachments/assets/85a96b17-680f-4b6c-96fb-10372a42573b)
 
 - **Ürün Durumu**
 <img width="1907" alt="SS-1" src="https://github.com/user-attachments/assets/7bae7a4b-97d1-42ba-842c-381c76f950aa">
@@ -126,7 +129,7 @@ Bootcamp takvimi, ekip üyelerinin yazılım konusundaki ilerlemesi, zaman yöne
 Ekip üyelerinden bir kişinin çalışmaya devam etmek istememesi üzerine yazılım kısmında tek developer kalmıştır.
  
 - **Sprint Retrospective:**
-  Ekip üyelerinin iş takvimleri, yazılım bilgisi/ uzmanlığı doğrultusunda bulunan ilk fikir zaman yönetimi baz alınarak değiştirilmiştir.
+  Ekip üyelerinin iş takvimleri, yazılım bilgisi/ uzmanlığı doğrultusunda bulunan ilk fikir, zaman yönetimi baz alınarak değiştirilmiştir.
   
   Görev dağılımıyla ilgili bootcamp sürecinin ilk başlarındaki dağılıma kıyasla düzenlemeler yapılmasına karar verilmiştir.
 
