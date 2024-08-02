@@ -107,3 +107,26 @@ Grubumuzdaki developer eksiğinden dolayı ürün geliştirme süreci yavaş ile
 
 
 ## SPRINT-3 </br>
+- **Sprint Notları**: User Stories için "Asana" platformu kullanılmış olup Product Backlog kısmından ulaşılabilir. 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog belirlenmiştir. 3 sprint'e bölündüğünde her sprint için 100 puan belirlenmiş olup; sprint içi puanlamalar kendi içinde değerlendirilmiştir.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+  
+- **Daily Scrum**:Toplantıların, ekip üyelerinin zaman durumlarına göre Whatsapp ve Slack üzerinden görüşülmesine ek olarak, devamlı yazışmalar ve görüntü paylaşımları ile de desteklenmesine karar verilmiştir. 
+
+
+- **Sprint board update**: 
+
+- **Ürün Durumu**
+
+
+
+- **Sprint Review**:
+
+ 
+- **Sprint Retrospective:**
+  
+
